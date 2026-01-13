@@ -28,6 +28,16 @@ After training the model, predictions were generated for both existing data and 
 
 Model testing and validation were performed using unseen data to evaluate performance. The results showed that the model was able to generalize well and provide reasonable predictions. This step highlights the importance of separating training and testing data in machine learning workflows to avoid overfitting.
 
+*OUTPUT* = 
+
+<img width="943" height="692" alt="Image" src="https://github.com/user-attachments/assets/2e6fb292-a604-42b4-b744-bfe933a19a31" />
+<img width="922" height="690" alt="Image" src="https://github.com/user-attachments/assets/a0023498-6656-40d6-badc-6efd7398bd5d" />
+<img width="863" height="696" alt="Image" src="https://github.com/user-attachments/assets/d3e82279-8bf4-4929-aeda-ea249ef9e0aa" />
+<img width="931" height="702" alt="Image" src="https://github.com/user-attachments/assets/b0c41610-64ad-48d9-8654-2112f2536235" />
+<img width="925" height="751" alt="Image" src="https://github.com/user-attachments/assets/d0045644-76ea-4e7d-b482-9487a2b9086e" />
+<img width="748" height="728" alt="Image" src="https://github.com/user-attachments/assets/c337a164-b2b2-45ac-b62f-36f936e362eb" />
+<img width="920" height="740" alt="Image" src="https://github.com/user-attachments/assets/acb3047c-8477-4c3a-8309-8e95d0639890" />
+
 The final output of the task includes predicted marks and corresponding pass/fail results, which were clearly displayed in the notebook. These results demonstrate how machine learning can support decision-making processes using historical data.
 
 In conclusion, this task successfully demonstrates the implementation of a machine learning model in Google Colab, covering the complete lifecycle from data ingestion to prediction. The project reflects real-world machine learning practices and fulfills the internship requirements by showcasing predictive analytics, model evaluation, and practical application of previous data.
